@@ -10,3 +10,7 @@ body {
  .card-title {
      color: rgb(2, 2, 58);
  }
+
+ .price {
+     color: orangered;
+ }
