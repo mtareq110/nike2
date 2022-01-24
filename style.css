@@ -5,3 +5,8 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
  }
+
+
+ .card-title {
+     color: rgb(2, 2, 58);
+ }
